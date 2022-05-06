@@ -1,4 +1,4 @@
-# A-Multi-Environment-and-Multi-Network-Parameter-Dataset
+# A MultiPle Environment and MultiPle Network Parameter Dataset
 
 
 The uploaded dataset is intended for use in developing path loss models that canbe used at various environments, with various values of network parameters. It consists of three files as follows:
